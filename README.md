@@ -89,7 +89,7 @@ Type Annotation (Strongly Dynamically typed) in python. Reason for implementing 
 
 Code documentation.
 Linting and validation.
-🔧 Project setup.
+🔧 Project setup.and arrangement
 # Create project directory and readme.
 mkdir ./0x02-python_async_comprehension/
 touch ./0x02-python_async_comprehension/README.md
